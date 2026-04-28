@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/block/users/route": "app/api/block/users/route.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/api/matches/route": "app/api/matches/route.js",
+  "/(auth)/signup/page": "app/(auth)/signup/page.js",
+  "/api/upload/route": "app/api/upload/route.js",
+  "/api/messages/[matchId]/route": "app/api/messages/[matchId]/route.js",
+  "/api/report/route": "app/api/report/route.js",
+  "/api/block/route": "app/api/block/route.js",
+  "/api/swipe/route": "app/api/swipe/route.js",
+  "/api/users/discover/route": "app/api/users/discover/route.js",
+  "/api/users/[id]/route": "app/api/users/[id]/route.js",
+  "/api/users/route": "app/api/users/route.js",
+  "/page": "app/page.js",
+  "/onboarding/page": "app/onboarding/page.js",
+  "/(app)/matches/page": "app/(app)/matches/page.js",
+  "/(app)/settings/page": "app/(app)/settings/page.js",
+  "/(app)/discover/page": "app/(app)/discover/page.js",
+  "/(app)/profile/page": "app/(app)/profile/page.js",
+  "/(app)/chat/[matchId]/page": "app/(app)/chat/[matchId]/page.js"
+}
